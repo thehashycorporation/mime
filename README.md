@@ -3,7 +3,7 @@
   -->
 # Mime
 
-A comprehensive, compact MIME type module.
+A comprehensive, compact MIME type module. (.jpg is the default extension for jpeg mime type)
 
 [![Build Status](https://travis-ci.org/broofa/node-mime.svg?branch=master)](https://travis-ci.org/broofa/node-mime)
 
