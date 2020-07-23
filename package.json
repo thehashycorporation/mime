@@ -43,9 +43,9 @@
     "util",
     "mime"
   ],
-  "name": "mime",
+  "name": "mime-jpg",
   "repository": {
-    "url": "https://github.com/broofa/mime",
+    "url": "https://github.com/thehashycorporation/mime",
     "type": "git"
   },
   "version": "2.4.6"
